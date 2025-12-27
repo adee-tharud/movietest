@@ -2,6 +2,7 @@
 
 This is the frontend of the Movie Showcase application built using **React + Vite**.
 It provides a responsive UI and communicates with a PHP backend API.
+The reason for using 1560px as the max-width here is because it is provided that way in the Figma UI.
 
 ---
 ## 🛠 Tech Stack
@@ -71,7 +72,8 @@ start backend setup
   VITE_API_BASE_URL=http://localhost:8000
   VITE_SHOWS_API_URL=https://api.tvmaze.com
   ```
-
+### 5 unit test results
+![apitest](./public/testresult.png)
 
 
 
