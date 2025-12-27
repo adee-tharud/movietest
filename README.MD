@@ -73,7 +73,7 @@ start backend setup
   VITE_SHOWS_API_URL=https://api.tvmaze.com
   ```
 ### 5 unit test results
-![apitest](./public/testresult.png)
+![apitest](/frontend/movietest/public/testresult.png)
 
 
 
