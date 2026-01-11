@@ -10,12 +10,12 @@ const Header = () => {
 
       <nav className={`nav-links ${menuOpen ? 'open' : ''}`}>
         <a href="#home" className="active">
-          Home
+          HOME
         </a>
-        <a href="#our-screens">Our Screens</a>
-        <a href="#schedule">Schedule</a>
-        <a href="#movie-library">Movie Library</a>
-        <a href="#location">Location & Contact</a>
+        <a href="#our-screens">OUR SCREENS</a>
+        <a href="#schedule">SCHEDULE</a>
+        <a href="#movie-library">MOVIE LIBRARY</a>
+        <a href="#location">LOCATION & CONTACT</a>
       </nav>
 
       {/* Hamburger */}

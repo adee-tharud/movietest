@@ -13,7 +13,7 @@ const Hero = () => {
         />
       </div>
       <div className="hero-intro max-width-container">
-        <h1 className="header">Movie Library</h1>
+        <h1 className="header">MOVIE LIBRARY</h1>
         <p className="description">
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
           invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.{' '}

@@ -21,7 +21,10 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>Copyright © 2022 IT Hotels. All rights reserved.</p>
+      <p>
+    Copyright © 2022 <span className="footer-break">IT Hotels.</span> All rights reserved.
+  </p>
+
         <p>
           Photos by <u>Felix Mooneeram</u> &amp; <u>Serge Kutuzov</u> on <u>Unsplash</u>
         </p>

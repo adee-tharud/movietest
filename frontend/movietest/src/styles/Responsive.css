@@ -129,6 +129,12 @@
         position: absolute;
         width: 100%;
     }
+  .hero-intro h1.header {
+    font-size: 32px;
+}
+    .hero-intro p.description {
+        font-size: 18px;
+    }
 
     .favorites {
         padding: 16px 40px;
@@ -178,8 +184,12 @@
     }
 
     .footer-bottom {
+      
         flex-direction: column;
         gap: 8px;
         text-align: center;
     }
+     .footer-break {
+    display: block;
+     }
 }
